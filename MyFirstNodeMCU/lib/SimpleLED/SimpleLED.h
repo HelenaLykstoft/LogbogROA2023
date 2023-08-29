@@ -4,7 +4,8 @@
 
 
 class SimpleLED{
-    // Man skriver alle sine public ting først, fordi det er mere interessant for læseren hvad der er public
+    // Man skriver alle sine public ting først, fordi det er mere interessant for læseren hvad der 
+    // er public
     public:
     // Constructor
         SimpleLED(int pin, bool ledON, long onTime, long offTime);
