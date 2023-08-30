@@ -1,9 +1,25 @@
 # LogbogROA2023
 
-> Test
+> Dette er Helena Botn Lykstoft's logbog fra Robotter og automatisering. Logbogen blev startet den første time, 21-8-23.
 
-Linje herunder
+### 21-8-23
 ---
+##### Startup
+** Hvad lavede vi/jeg? **
 
-Og herunder
-... 
+### 25-8-23
+---
+** Hvad lavede vi/jeg? **
+
+### 28-8-23
+---
+** Hvad lavede vi/jeg? **
+
+### 29-8-23
+---
+** Hvad lavede vi/jeg? **
+
+### 30-8-23
+---
+** Hvad lavede vi/jeg? **
+
