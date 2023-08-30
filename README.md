@@ -58,6 +58,7 @@ void loop() {
 }
 
 Fra <https://www.techcoil.com/blog/how-to-control-a-sg90-servo-motor-with-the-esp8266-nodemcu-lua-development-board/> 
+
 Derefter forsøgte jeg at få motoren til at dreje til -90, men det virkede ikke. Den kunne kun dreje 180 grader. Jeg så dog at den ikke helt drejede 180 grader men mere 150, så jeg fik sat ind i servo.attach at den skulle have pin, og så 500,2400. Beregningen fandt Isak og Jamie på en hjemmeside, som en mand fandt ud af fik servoen til at dreje helt til 180 grader.
 
 Jeg arbejdede videre med at få sat det ind i klasser, så koden var opdelt og der ikke stod alt i main. Jeg fik brugt enum til at lave nogle forskellige states i de private variabler i header filen, og derefter fik jeg lavet en cpp fil, som håndterede switch casen så jeg kunne få sat mine states ind. Og det virkede så.
