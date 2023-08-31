@@ -4,7 +4,7 @@
 class SimpleTrafficLight{
     public:
     // Constructor
-        SimpleTrafficLight(int pin, bool ledON, long onTime, long offTime);
+        SimpleTrafficLight(int ledRed, int ledYellow, int ledGreen, int ledRed2, int ledYellow2, int ledGreen2, bool ledON, long onTime, long offTime);
         void setup(long starttime);
         void update(long now);
     private:
@@ -19,7 +19,12 @@ class SimpleTrafficLight{
             S6,
             S7
         };
-        int _pin;
+        int _ledRed;
+        int _ledYellow;
+        int _ledGreen;
+        int _ledRed2;
+        int _ledYellow2;
+        int _ledGreen2;
         bool _ledON;
         long _onTime;
         long _offTime;
