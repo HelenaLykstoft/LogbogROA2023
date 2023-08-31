@@ -75,4 +75,12 @@ Jeg fik brugt millis og lavede en _lastInputTime som jeg fik til at stige hver g
 
 ---
 
+### 31-8-23
+##### Rettelser til kode og kig på WIFI
+**Hvad lavede vi/jeg?**
+Vi sad og kiggede lidt på noget wifi, men os der ikke havde lavet lyskryds færdigt skulle lave det færdigt. Jeg fik lavet det semi færdigt ( dvs indtil det lyste semi godt ) og så gik jeg videre til min servo motor opgave, da jeg havde opdaget at der var en fejl. Jeg fik rettet lidt på mine switch case, og fandt ud af, at hvis der ikke ligger en case under min 180 grader case, så kører den slet ikke 180 grader. Jeg ved ikke hvorfor, men jeg finder nok ud af det på et andet tidspunkt når vi skal lege mere med motorer mm.
+
+> https://github.com/HelenaLykstoft/LogbogROA2023/tree/main/ServoStyringMashine
+
+--- 
 
