@@ -16,13 +16,12 @@ class ServoMachine{
 
     private:
         enum ServoState{
-            SERVO_OFF,
             SERVO_ON,
-            SERVO_0,
             SERVO_45,
             SERVO_90,
             SERVO_135,
             SERVO_180,
+            SERVO_OFF
         };
         int _pin;
         int _minAngle;
@@ -30,7 +29,6 @@ class ServoMachine{
         int _lastInputTime;
         Servo _servo;
         ServoState _servoState;
-
         // For millis to try to work
         long _nextChangeTime;
 

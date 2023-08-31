@@ -8,7 +8,7 @@ ServoMachine servo(servoPin, 500, 2400);
 
 void setup() {
   // put your setup code here, to run once:
-    //Serial.begin(9600);
+    Serial.begin(9600);
     //servo.attach(D1, 500, 2400);
     //servo.write(0);
     servo.setup();
