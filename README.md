@@ -83,5 +83,13 @@ Vi sad og kiggede lidt på noget wifi, men os der ikke havde lavet lyskryds fær
 
 > https://github.com/HelenaLykstoft/LogbogROA2023/tree/main/ServoStyringMashine
 
---- 
 
+---
+
+### 5-9-23
+#### 3D Printer og vores egen lille figur
+**Hvad lavede vi/jeg?**
+
+I dag fik vi kigget på Tobias' nye 3D printer, fik sat den op og fik set den printe et par ting. Resten af timen arbejdede vi med JavaCSG, og fik gjort et forsøg i at lave vores egen lille figur ved hjælp af Java og OpenSCAD. Tobias' havde lavet et java projekt som omsatte java til OpenSCAD, så man vha. java som vi kender, kunne lave forskellige figurer mm.
+
+---
