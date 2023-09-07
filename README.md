@@ -93,3 +93,10 @@ Vi sad og kiggede lidt på noget wifi, men os der ikke havde lavet lyskryds fær
 I dag fik vi kigget på Tobias' nye 3D printer, fik sat den op og fik set den printe et par ting. Resten af timen arbejdede vi med JavaCSG, og fik gjort et forsøg i at lave vores egen lille figur ved hjælp af Java og OpenSCAD. Tobias' havde lavet et java projekt som omsatte java til OpenSCAD, så man vha. java som vi kender, kunne lave forskellige figurer mm.
 
 ---
+### 7-9-23
+#### Mere 3D print og opsætning med JitPack
+**Hvad lavede vi/jeg?**
+
+I dag fik vi kigget på 3D print, og fik sat vores projekt op med JitPack, så det er nemmere at lave projekter i fremtiden. Vi fik lavet en lille "holder" til vores NodeMCU som vi kan 3D printe hvis vi vil. Derudover arbejdede vi lidt videre med vores egen lille figur.
+
+---
