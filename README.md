@@ -100,3 +100,10 @@ I dag fik vi kigget på Tobias' nye 3D printer, fik sat den op og fik set den pr
 I dag fik vi kigget på 3D print, og fik sat vores projekt op med JitPack, så det er nemmere at lave projekter i fremtiden. Vi fik lavet en lille "holder" til vores NodeMCU som vi kan 3D printe hvis vi vil. Derudover arbejdede vi lidt videre med vores egen lille figur.
 
 ---
+### 12-9-23
+#### Togskinnesnak og første modellering på vores clicker
+**Hvad lavede vi/jeg?**
+
+I dag fik vi snakket om vores fremtidige projekt, nemlig togprojektet. Vi skal samlet i klassen lave et projekt, hvor vi designer en togbane og et tog. I dag fik vi snakket om projektet og startet på modellering af en clicker til togsystemet, så man kan sætte forskellige dele sammen. 
+
+---
