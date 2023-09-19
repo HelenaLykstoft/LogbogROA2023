@@ -107,3 +107,15 @@ I dag fik vi kigget på 3D print, og fik sat vores projekt op med JitPack, så d
 I dag fik vi snakket om vores fremtidige projekt, nemlig togprojektet. Vi skal samlet i klassen lave et projekt, hvor vi designer en togbane og et tog. I dag fik vi snakket om projektet og startet på modellering af en clicker til togsystemet, så man kan sætte forskellige dele sammen. 
 
 ---
+### 15-9-23
+#### Mere modellering af clicker
+**Hvad lavede vi/jeg?**
+
+I dag sad vi og designede vores clicker og fik sat de rigtige mål på. Vi fik indblik i at det tager lang tid at 3D printe den helt rigtige, da man skal printe og rette til indtil man får det færdige produkt. Vi fik lavet en clicker med de rette mål.
+
+---
+### 19-9-23
+#### Interface design af upscaling af clicker
+**Hvad lavede vi/jeg?**
+
+I dag skulle vi først sidde og designe eet interface, så det er muligt at upscale vores clicker.
