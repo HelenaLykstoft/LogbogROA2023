@@ -119,3 +119,23 @@ I dag sad vi og designede vores clicker og fik sat de rigtige mål på. Vi fik i
 **Hvad lavede vi/jeg?**
 
 I dag skulle vi først sidde og designe eet interface, så det er muligt at upscale vores clicker.
+
+---
+### 22-9-23
+#### Snak om vores projekt
+**Hvad lavede vi/jeg?**
+
+Vi er gruppen Jamie, Isak, Lucas, Matias og Marcus. Drengene havde fået en ide, om at tog-projektet skulle have en togstation, hvorpå der er en maskine, som automatisk hælder en øl op i et glas. Så det sad vi og modellerede hele denne time, men fandt så ud af at tog-projektet blev skrottet.
+Derfor fandt vi på en ny ide: Vi ville lave en automatisk maskine, der kan få vin ud af papvine. Vi begyndte at tegne på tavlen og snakke om funktionaliteter og skrev ned hvilke dele vi ville have med.
+
+---
+### 26-9-23
+#### Design af NodeMCU holder og lidt design af klo'en
+**Hvad lavede vi/jeg?**
+
+I dag fik vi designet vores NodeMCU holder med clicker huller i, som vi fik 3D printet. Derudover startede vi også på at få designet klo'en, som vi så skulle arbejde videre på på fredag.
+
+---
+### 19-9-23
+#### Interface design af upscaling af clicker
+**Hvad lavede vi/jeg?**
