@@ -4,7 +4,7 @@
 
 ---
 ### 21-8-23
-##### Opstart på ROA og MyFirstNodeMCU projekt
+#### Opstart på ROA og MyFirstNodeMCU projekt
 **Hvad lavede vi/jeg?**
 
 I dag havde vi opstart på ROA. Vi fik lært at få LED lys til at lyse på vores NodeMCU'er. Derudover lavede vi ikke så meget andet end at få basis informationer og fik snakket lidt i gruppen om hvilket stort projekt vi vil forsøge at lave.
@@ -13,7 +13,7 @@ Jeg fik lavet opgaven "MyFirstNodeMCU", som fik en LED lampe til at tænde og sl
 
 ---
 ### 25-8-23
-##### Volt og Simple Traffic Light projekt
+#### Volt og Simple Traffic Light projekt
 **Hvad lavede vi/jeg?**
 
 I dag arbejdede vi på strøm. Vi fik snakket om volt og hvor mange volt vores NodeMCU måtte få ( mellem 4.5 og 10 ). Derudover arbejdede vi videre på vores MyFirstNodeMCU projekt, og fik lavet klasser inde i lib, som hedder SimpleLED. Derudover fik vi også en opgave for, som var Trafiklysopgaven.
@@ -21,7 +21,7 @@ I dag arbejdede vi på strøm. Vi fik snakket om volt og hvor mange volt vores N
 
 ---
 ### 28-8-23
-##### Simple Traffic Light projekt
+#### Simple Traffic Light projekt
 **Hvad lavede vi/jeg?**
 
 I dag fik jeg startet ordentligt på min trafiklysopgave. Jeg undersøgte hvordan man brugte states, og fandt ud af at man kunne bruge switch cases sammen med states, så det legede jeg lidt med. Jeg endte dog kun med at få de gule og grønne lamper til at lyse uafbrudt, så jeg valgte at vente til at spørge Tobias om hjælp.
@@ -29,7 +29,7 @@ I dag fik jeg startet ordentligt på min trafiklysopgave. Jeg undersøgte hvorda
 
 ---
 ### 29-8-23
-##### Knap, pullup, pulldown og ButtonLight projekt
+#### Knap, pullup, pulldown og ButtonLight projekt
 **Hvad lavede vi/jeg?**
 
 I dag arbejdede vi med at få en knap til at virke. Vi fik snakket om pullup og pulldown og fik lavet et lille projekt med en knap. Meningen var at vi skulle få et lys til at blinke, og derfor hedder filen ButtonLight, men vi ændrede det så vi istedet for skulle begynde på et projekt med en ServoMotor som vi begyndte på dagen efter.
@@ -37,7 +37,7 @@ I dag arbejdede vi med at få en knap til at virke. Vi fik snakket om pullup og 
 
 ---
 ### 30-8-23
-##### ServoMachine projekt
+#### ServoMachine projekt
 **Hvad lavede vi/jeg?**
 
 I dag begyndte jeg på mit ServoMachine projekt. Jeg fandt en kode på nettet, som fik servo motoren til at dreje, som jeg skrev ind i min kode til at starte med: 
@@ -76,11 +76,66 @@ Jeg fik brugt millis og lavede en _lastInputTime som jeg fik til at stige hver g
 ---
 
 ### 31-8-23
-##### Rettelser til kode og kig på WIFI
+#### Rettelser til kode og kig på WIFI
 **Hvad lavede vi/jeg?**
+
 Vi sad og kiggede lidt på noget wifi, men os der ikke havde lavet lyskryds færdigt skulle lave det færdigt. Jeg fik lavet det semi færdigt ( dvs indtil det lyste semi godt ) og så gik jeg videre til min servo motor opgave, da jeg havde opdaget at der var en fejl. Jeg fik rettet lidt på mine switch case, og fandt ud af, at hvis der ikke ligger en case under min 180 grader case, så kører den slet ikke 180 grader. Jeg ved ikke hvorfor, men jeg finder nok ud af det på et andet tidspunkt når vi skal lege mere med motorer mm.
 
 > https://github.com/HelenaLykstoft/LogbogROA2023/tree/main/ServoStyringMashine
 
---- 
 
+---
+
+### 5-9-23
+#### 3D Printer og vores egen lille figur
+**Hvad lavede vi/jeg?**
+
+I dag fik vi kigget på Tobias' nye 3D printer, fik sat den op og fik set den printe et par ting. Resten af timen arbejdede vi med JavaCSG, og fik gjort et forsøg i at lave vores egen lille figur ved hjælp af Java og OpenSCAD. Tobias' havde lavet et java projekt som omsatte java til OpenSCAD, så man vha. java som vi kender, kunne lave forskellige figurer mm.
+
+---
+### 7-9-23
+#### Mere 3D print og opsætning med JitPack
+**Hvad lavede vi/jeg?**
+
+I dag fik vi kigget på 3D print, og fik sat vores projekt op med JitPack, så det er nemmere at lave projekter i fremtiden. Vi fik lavet en lille "holder" til vores NodeMCU som vi kan 3D printe hvis vi vil. Derudover arbejdede vi lidt videre med vores egen lille figur.
+
+---
+### 12-9-23
+#### Togskinnesnak og første modellering på vores clicker
+**Hvad lavede vi/jeg?**
+
+I dag fik vi snakket om vores fremtidige projekt, nemlig togprojektet. Vi skal samlet i klassen lave et projekt, hvor vi designer en togbane og et tog. I dag fik vi snakket om projektet og startet på modellering af en clicker til togsystemet, så man kan sætte forskellige dele sammen. 
+
+---
+### 15-9-23
+#### Mere modellering af clicker
+**Hvad lavede vi/jeg?**
+
+I dag sad vi og designede vores clicker og fik sat de rigtige mål på. Vi fik indblik i at det tager lang tid at 3D printe den helt rigtige, da man skal printe og rette til indtil man får det færdige produkt. Vi fik lavet en clicker med de rette mål.
+
+---
+### 19-9-23
+#### Interface design af upscaling af clicker
+**Hvad lavede vi/jeg?**
+
+I dag skulle vi først sidde og designe eet interface, så det er muligt at upscale vores clicker.
+
+---
+### 22-9-23
+#### Snak om vores projekt
+**Hvad lavede vi/jeg?**
+
+Vi er gruppen Jamie, Isak, Lucas, Matias og Marcus. Drengene havde fået en ide, om at tog-projektet skulle have en togstation, hvorpå der er en maskine, som automatisk hælder en øl op i et glas. Så det sad vi og modellerede hele denne time, men fandt så ud af at tog-projektet blev skrottet.
+Derfor fandt vi på en ny ide: Vi ville lave en automatisk maskine, der kan få vin ud af papvine. Vi begyndte at tegne på tavlen og snakke om funktionaliteter og skrev ned hvilke dele vi ville have med.
+
+---
+### 26-9-23
+#### Design af NodeMCU holder og lidt design af klo'en
+**Hvad lavede vi/jeg?**
+
+I dag fik vi designet vores NodeMCU holder med clicker huller i, som vi fik 3D printet. Derudover startede vi også på at få designet klo'en, som vi så skulle arbejde videre på på fredag.
+
+---
+### 19-9-23
+#### Interface design af upscaling af clicker
+**Hvad lavede vi/jeg?**
