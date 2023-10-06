@@ -27,7 +27,7 @@ public class sensorholder {
         Geometry3D bottomCone = csg.cone3D(5.5,5.5,10,128,false);
 
         // Move clicker
-        clicker = csg.translate3D(0,0, -5).transform(clicker);
+        clicker = csg.translate3D(0,0, 5).transform(clicker);
         clicker = csg.rotate3DY(csg.degrees(90)).transform(clicker);
 
         // Move box2
