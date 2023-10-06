@@ -136,6 +136,24 @@ Derfor fandt vi på en ny ide: Vi ville lave en automatisk maskine, der kan få 
 I dag fik vi designet vores NodeMCU holder med clicker huller i, som vi fik 3D printet. Derudover startede vi også på at få designet klo'en, som vi så skulle arbejde videre på på fredag.
 
 ---
-### 19-9-23
+### 29-9-23
+#### Design på vores projekt
+**Hvad lavede vi/jeg?**
+
+I dag sad jeg og lavede en holder til vores moist sensor. Jeg arbejdede denne dag, med at lave en lille holder der kan sættes i vores kopholder, hvor man også kan sætte en clicker i, som sidder på moist sensor holdere.
+
+---
+### 3-10-23
+#### Design af moist sensor holder
+**Hvad lavede vi/jeg?**
+
+I dag sad jeg og designede selve holderen til moist sensoren. Jeg fik lavet flere versioner, så vores sensor kan sidde i den uden at kunne bevæge sig særlig meget.
+
+---
+### 6-10-23
 #### Interface design af upscaling af clicker
 **Hvad lavede vi/jeg?**
+
+I dag lavede jeg nogle små konfigurationer til vores holder. Vi fandt blandt andet ud af at selve clickeren skulle sidde længere oppe, så moist sensoren var langt nok nede i koppen så den kan måle ordentligt.
+
+
