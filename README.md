@@ -17,6 +17,7 @@ Jeg fik lavet opgaven "MyFirstNodeMCU", som fik en LED lampe til at tænde og sl
 **Hvad lavede vi/jeg?**
 
 I dag arbejdede vi på strøm. Vi fik snakket om volt og hvor mange volt vores NodeMCU måtte få ( mellem 4.5 og 10 ). Derudover arbejdede vi videre på vores MyFirstNodeMCU projekt, og fik lavet klasser inde i lib, som hedder SimpleLED. Derudover fik vi også en opgave for, som var Trafiklysopgaven.
+
 > https://github.com/HelenaLykstoft/LogbogROA2023/tree/main/SimpleTraficLight
 
 ---
@@ -26,6 +27,11 @@ I dag arbejdede vi på strøm. Vi fik snakket om volt og hvor mange volt vores N
 
 I dag fik jeg startet ordentligt på min trafiklysopgave. Jeg undersøgte hvordan man brugte states, og fandt ud af at man kunne bruge switch cases sammen med states, så det legede jeg lidt med. Jeg endte dog kun med at få de gule og grønne lamper til at lyse uafbrudt, så jeg valgte at vente til at spørge Tobias om hjælp.
 > https://github.com/HelenaLykstoft/LogbogROA2023/tree/main/SimpleTraficLight
+
+![370244699_629194982619261_677028939690871015_n](https://github.com/HelenaLykstoft/LogbogROA2023/assets/99395714/482b0c28-b5e9-401b-bbf1-ebeb34dabebb)
+
+![387578393_1013941186486639_150111337501593315_n](https://github.com/HelenaLykstoft/LogbogROA2023/assets/99395714/fa268a4d-fcd0-45d6-a648-1dfad29c89a8)
+
 
 ---
 ### 29-8-23
@@ -72,6 +78,7 @@ Jeg havde dog stadig delays med i min main, så min næste opgave var at arbejde
 Jeg fik brugt millis og lavede en _lastInputTime som jeg fik til at stige hver gang jeg lavede en case, hvilket gjorde at jeg ikke havde brug for at bruge delay.
 
 > https://github.com/HelenaLykstoft/LogbogROA2023/tree/main/ServoStyringMashine
+> Video ligger inde i projektmappen
 
 ---
 
@@ -90,7 +97,7 @@ Vi sad og kiggede lidt på noget wifi, men os der ikke havde lavet lyskryds fær
 #### 3D Printer og vores egen lille figur
 **Hvad lavede vi/jeg?**
 
-I dag fik vi kigget på Tobias' nye 3D printer, fik sat den op og fik set den printe et par ting. Resten af timen arbejdede vi med JavaCSG, og fik gjort et forsøg i at lave vores egen lille figur ved hjælp af Java og OpenSCAD. Tobias' havde lavet et java projekt som omsatte java til OpenSCAD, så man vha. java som vi kender, kunne lave forskellige figurer mm.
+I dag fik vi kigget på Tobias' nye 3D printer, fik sat den op og fik set den printe et par ting. Resten af timen arbejdede vi med JavaCSG, og fik gjort et forsøg i at lave vores egen lille figur ved hjælp af Java og OpenSCAD. Tobias' havde lavet et java projekt som omsatte java til OpenSCAD, så man vha. java som vi kender, kunne lave forskellige figurer mm. ( Jeg tror jeg ved en fejl har slettet projektet desværre )
 
 ---
 ### 7-9-23
@@ -118,7 +125,7 @@ I dag sad vi og designede vores clicker og fik sat de rigtige mål på. Vi fik i
 #### Interface design af upscaling af clicker
 **Hvad lavede vi/jeg?**
 
-I dag skulle vi først sidde og designe eet interface, så det er muligt at upscale vores clicker.
+I dag skulle vi sidde og designe et interface, så det er muligt at upscale vores clicker.
 
 ---
 ### 22-9-23
@@ -135,7 +142,47 @@ Derfor fandt vi på en ny ide: Vi ville lave en automatisk maskine, der kan få 
 
 I dag fik vi designet vores NodeMCU holder med clicker huller i, som vi fik 3D printet. Derudover startede vi også på at få designet klo'en, som vi så skulle arbejde videre på på fredag.
 
+![370310352_850192706808958_8156313519454143636_n](https://github.com/HelenaLykstoft/LogbogROA2023/assets/99395714/6232b5f6-4183-44a9-86a4-c4c29e6df213)
+
+
 ---
-### 19-9-23
+### 29-9-23
+#### Design på vores projekt
+**Hvad lavede vi/jeg?**
+
+I dag sad jeg og lavede en holder til vores moist sensor. Jeg arbejdede denne dag, med at lave en lille holder der kan sættes i vores kopholder, hvor man også kan sætte en clicker i, som sidder på moist sensor holdere.
+> https://github.com/HelenaLykstoft/LogbogROA2023/tree/main/MoistSensorHolder 
+
+![387594608_859254502103019_4809025313250454214_n](https://github.com/HelenaLykstoft/LogbogROA2023/assets/99395714/3d4ac504-f5a4-45e9-bfc2-24823a90e0b2)
+
+
+---
+### 3-10-23
+#### Design af moist sensor holder
+**Hvad lavede vi/jeg?**
+
+I dag sad jeg og designede selve holderen til moist sensoren. Jeg fik lavet flere versioner, så vores sensor kan sidde i den uden at kunne bevæge sig særlig meget.
+> https://github.com/HelenaLykstoft/LogbogROA2023/tree/main/MoistSensorHolder
+
+![387506975_882031683490264_4979207042801969898_n](https://github.com/HelenaLykstoft/LogbogROA2023/assets/99395714/32d6f6d8-fe18-406d-a60c-e7e23e1ef249)
+
+
+---
+### 6-10-23
 #### Interface design af upscaling af clicker
 **Hvad lavede vi/jeg?**
+
+I dag lavede jeg nogle små konfigurationer til vores holder. Vi fandt blandt andet ud af at selve clickeren skulle sidde længere oppe, så moist sensoren var langt nok nede i koppen så den kan måle ordentligt.
+> https://github.com/HelenaLykstoft/LogbogROA2023/tree/main/MoistSensorHolder
+
+![385507106_274078234946738_2224950459691850403_n](https://github.com/HelenaLykstoft/LogbogROA2023/assets/99395714/85eb1402-be42-4d45-9ef0-b53dc0b9a005)
+
+
+---
+### 10-10-23
+#### Liste over alle delene i vores projekt
+**Hvad lavede vi/jeg?**
+
+I dag arbejdede vi videre på projektet, og jeg sad imens og arbejdede på en liste over alle de små dele vi har med i projektet.
+
+
