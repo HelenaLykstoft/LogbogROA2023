@@ -192,3 +192,4 @@ I dag arbejdede vi videre på projektet, og jeg sad imens og arbejdede på en li
 
 I dag arbejdede jeg videre med at lave listen over alle smådelene. Vi fik set på vores top til vin boxen, og fik snakket om hvordan vi kunne forbedre diverse ting på vores projekt. Derudover fik vi sendt vores dokumenter til hinanden, så alle havde de forskellige dokumenter.
 Siden det var den sidste dag på projektet, besluttede vi os for at vi kun lige kunne nå at printe en mindre version af vores spole. 
+Efter spolen var printet, fandt vi ud af at den godt kunne trække vingerne på tappen op, så det eneste vi manglede i projektet var, at lave en holder der holder tappen nede.
